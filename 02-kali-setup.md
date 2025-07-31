@@ -1,3 +1,5 @@
+This section guides you through downloading, installing, and configuring Kali Linux in your virtual lab environment, ensuring it connects properly to your pfSense firewall for testing and experimentation.
+
 ### **Setting Up Kali Linux**
 
 1. **Download the ISO**  
