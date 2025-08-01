@@ -79,10 +79,6 @@ Feel free to:
 - Share additional attack scenarios
 - Contribute documentation enhancements
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Resources
 
 - [Kali Linux Documentation](https://www.kali.org/docs/)
