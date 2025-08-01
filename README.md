@@ -44,7 +44,7 @@ By completing this lab, you will:
 - Install and configure pfSense firewall
 - Understand network segmentation principles
 - Create and manage firewall rules
-- Configure VLANs and network interfaces
+- Configure network interfaces
 - Perform penetration testing with Kali Linux
 - Validate security configurations through testing
 
@@ -52,7 +52,7 @@ By completing this lab, you will:
 
 - **Network Security**: Firewall configuration, rule management
 - **Penetration Testing**: Attack simulation, vulnerability assessment
-- **Network Administration**: VLAN configuration, network segmentation
+- **Network Administration**: Network segmentation
 - **Virtualization**: Multi-VM lab environment setup
 
 ## Technical Stack
