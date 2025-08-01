@@ -85,7 +85,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Resources
 
-- [pfSense Official Documentation](https://docs.netgate.com/pfsense/)
 - [Kali Linux Documentation](https://www.kali.org/docs/)
 - [Network Security Best Practices](https://www.nist.gov/cybersecurity)
 
